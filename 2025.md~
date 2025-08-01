@@ -1,0 +1,85 @@
+* January
+
+[Marx, anarchism, and web standards](https://steveklabnik.com/writing/marx-anarchism-and-web-standards/)
+[Redcarpet is awesome](https://steveklabnik.com/writing/redcarpet-is-awesome/)
+[Write better cukes with the rel attribute](https://steveklabnik.com/writing/write-better-cukes-with-the-rel-attribute/)
+[Implementing HATEOS with presenters](https://steveklabnik.com/writing/implementing-hateoas-with-presenters/)
+[Moving from Sinatra to Rails](https://steveklabnik.com/writing/moving-from-sinatra-to-rails/)
+[The Gleam Programming Language](https://tour.gleam.run/)
+[Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022](https://youtu.be/YXrb-DqsBNU)
+[ZigLang](https://ziglang.org/documentation/master/#Introduction)
+[An Api Ontology](https://steveklabnik.com/writing/an-api-ontology/)
+[Rest Is Over](https://steveklabnik.com/writing/rest-is-over/)
+[Write ahead loggin](https://en.wikipedia.org/wiki/Write-ahead_logging)
+[Logical replication in Postgres: Basics](https://www.enterprisedb.com/blog/logical-replication-postgres-basics)
+[DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
+[https://steveklabnik.com/writing/mixins--a-refactoring-anti-pattern/](Mixins: a refactoring anti-pattern)
+[https://steveklabnik.com/writing/how-can-i-contribute-to-ruby-on-rails-/](How can I contribute to Ruby on Rails?)
+[https://evilmartians.com/chronicles/martian-kubernetes-kit-a-smooth-sailing-toolkit-from-our-sre-team](Martian Kubernetes Kit: a smooth-sailing toolkit from our SRE team)
+[https://evilmartians.com/chronicles/martian-kubernetes-kit-unboxing-our-toolkits-technical-secrets](Martian Kubernetes Kit: unboxing our toolkit's technical secrets)
+[https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity)
+[https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/](MasterCard DNS Error Went Unnoticed for Years)
+[https://youtu.be/fks3PBodyiE](How I Made A Laptop From Scratch - anyon_e)
+[https://danluu.com/deconstruct-files/](Files are fraught with peril)
+[https://youtu.be/aqimsB6Refs](Bun 1.2 Looks Good)
+[https://youtu.be/XiaIbmMGqdg](What Are SIMD Instructions? (With a Code Example) [DSP #14])
+[https://youtu.be/MJ-ettBDJqQ](Intro to Parallelism with Flynn's Taxonomy)
+[https://www.youtube.com/watch?v=GdcOy6zVFC4](The Curry-Howard Correspondence)
+[https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
+[https://akshay.co/posts/entrepreneur-to-employee/](From Entrepreneur to Employee: A Journey of Transition and Growth)
+[https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell](What Would It Take to Recreate Bell Labs?)
+[https://blog.lambdaclass.com/summary-on-rstar-math-showing-how-smaller-llms-can-outperform-bigger-ones-with-deep-thinking/](Summary on rStar-Math: showing how smaller LLMs can outperform bigger ones with deep thinking)
+[https://15445.courses.cs.cmu.edu/fall2023/notes/01-relationalmodel.pdf](Lecture #01: Relational Model & Algebra)
+[https://15445.courses.cs.cmu.edu/fall2023/notes/03-storage1.pdf](Lecture #03: Database Storage (Part I))
+[https://15445.courses.cs.cmu.edu/fall2023/notes/04-storage2.pdf](Lecture #04: Database Storage (Part II))
+[https://dbezhetskov.dev/multi-sandboxes/](Multi-cage mode and multiple sandboxes)
+[https://x.com/hnasr/status/1884693723361271826](https://x.com/hnasr/status/1884693723361271826)
+[https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
+[https://arcprize.org/blog/r1-zero-r1-results-analysis](An Analysis of DeepSeek's R1-Zero and R1)
+[https://www.instantdb.com/essays/pg_upgrade](A Major Postgres Upgrade with Zero Downtime)
+
+* February
+[https://en.wikipedia.org/wiki/S-expression#Standardizationl](S-expression)
+
+* March
+[https://en.wikipedia.org/wiki/Domain_Name_System][Domain Name System]
+[https://www.youtube.com/watch?v=mbumrakqulU](BIG-IP Carrier-Grade NAT - fast, scalable and secure IPv4/IPv6 address management)
+[https://mattrighetti.com/2025/03/03/reverse-engineering-playtomic](Reverse Engineering Playtomic)
+[https://jvns.ca/blog/2025/03/07/escape-code-standards/](Standards for ANSI escape codes)
+[https://www.astralcodexten.com/p/openai-nonprofit-buyout-much-more](OpenAI Nonprofit Buyout: Much More Than You Wanted To Know)
+[https://noelrappin.com/blog/2025/03/better-know-a-ruby-thing-method-lookup/](Better Know A Ruby Thing: Method Lookup)
+[https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture](Looking Ahead at Intel’s Xe3 GPU Architecture)
+[https://nicolashery.com/decoding-json-sum-types-in-go/](Decoding JSON sum types in Go without panicking)
+[https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2](Why Go is a poorly designed language)
+[https://pediaa.com/what-is-the-difference-between-static-and-dynamic-linking/](What is the Difference Between Static and Dynamic Linking)
+[https://youtu.be/Ckh3WX00wIw](Indistinguishability Obfuscation iO | Devcon SEA)
+[https://youtu.be/lgvB_NtPqN0](COMP526 (Fall 2022) 1-2 §1.2 The Random Access Machine Model)
+
+* April
+[https://freecontent.manning.com/concurrency-vs-parallelism/](Concurrency vs Parallelism)
+[https://en.wikipedia.org/wiki/C10k_problem#:~:text=The%20C10k%20problem%20is%20the,concurrently%20handling%20ten%20thousand%20connections](C10k problem)
+[https://en.wikipedia.org/wiki/Asynchronous_I/O](Asynchronous I/O)
+[https://en.wikipedia.org/wiki/C_dynamic_memory_allocation](C dynamic memory allocation)
+
+* May
+[https://en.wikipedia.org/wiki/Bootloader](Bootloader)
+[https://dev.to/ko1/personal-efforts-to-improve-the-quality-of-ruby-interpreter-2lcl](Personal efforts to improve the quality of Ruby interpreter)
+
+* June
+[https://shopify.engineering/ruby-variable-width-allocation](Optimizing Ruby’s Memory Layout: Variable Width Allocation)
+[https://en.wikipedia.org/wiki/Data_fusion](Data fusion)
+[https://en.wikipedia.org/wiki/German_tank_problem](German tank problem)
+[https://en.wikipedia.org/wiki/Io_uring](io_uring)
+[https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf](What Every Computer Scientist Should Know About Floating Point Arithmetic)
+[https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/](I Write Type Safe Generic Data Structures in C)
+[https://spectrum.ieee.org/dsp-pioneer-jim-boddie](Digital Signal Processing Pioneer Jim Boddie Remembered He codeveloped the first successful DSP at Bell Labs)
+[https://kevinboone.me/dtc-700.html](They don’t make ’em like that any more: Sony DTC-700 audio DAT player/recorder)
+
+* July
+[https://maypok86.github.io/otter/blog/cache-evolution/#otter-v2](The Evolution of Caching Libraries in Go)
+[https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/](A List Is A Monad)
+[https://dtornow.substack.com/p/jepsen-and-tigerbeetle?triedRedirect=true](Jepsen & TigerBeetle)
+[https://hackers.pub/@hongminhee/2025/contrarian-stack/en](In Praise of the Contrarian Stack)
+[http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html](A Non Anthropomorphized view of llms)
+[https://words.filippo.io/run-sunlight/](You Should Run a Certificate Transparency Log)
+
